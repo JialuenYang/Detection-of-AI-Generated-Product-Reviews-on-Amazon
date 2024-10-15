@@ -5,5 +5,7 @@ Uses tf-idf scores, sentiment analysis, and token analysis to classify 6,217 Ama
 ### dataset.csv
 
 isAI = 0 means human-written
+
 isAI = 1 means AI-Generated
+
 isAI = 2 means AI-assisted human review (Human used LLM to organize his/her thoughts and the result contains some sort of value or detail that cannot be generated purely by AI)
